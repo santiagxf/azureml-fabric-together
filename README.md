@@ -11,3 +11,8 @@ This demo shows how you can use `mltable` assets in Azure Machine Learning to re
 ### Consume predictions from models deployed in Azure Machine Learning Online Endpoints
 
 This demo shows you can use MLflow deployment client to connect to Azure Machine Learning and invoke endpoints to generate predictions. Models are hosted in Azure Machine Learning Online Endpoints where they can be consumed for multiple workloads. This demo is intended to be executed in Fabric. [Link to example](examples/fabric-consume-azureml-endpoints.ipynb).
+
+
+## Notice
+
+These examples don't represent all the ways users may combine the two products, nor a recommendation about how to do it. It is shared only as a quick start for users working with Azure Machine Learning and Fabric, highlighting some of the existing features they can use.
